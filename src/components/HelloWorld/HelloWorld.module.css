@@ -1,0 +1,20 @@
+/* Chaque selecteur DOIT contenir un moins un classname */
+
+.text {
+  font-family: 'Comic sans MS';
+  color: deeppink;
+}
+
+.lastname {
+  color: navy;
+  text-shadow: 0.1ch 0.1ch 0.1ch hotpink,
+              0.1ch -0.1ch 0.1ch hotpink,
+              -0.1ch 0.1ch 0.1ch hotpink,
+              -0.1ch -0.1ch 0.1ch hotpink;
+}
+
+.example {
+  color: cyan;
+  background-color: deeppink;
+  font-weight: bold;
+}

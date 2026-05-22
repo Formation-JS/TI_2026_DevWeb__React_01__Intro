@@ -1,0 +1,13 @@
+
+.error {
+  color: crimson;
+}
+
+.msg {
+  color: goldenrod;
+}
+
+.imp {
+  font-weight: bold;
+  font-style: oblique;
+}
